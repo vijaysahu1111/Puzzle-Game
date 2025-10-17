@@ -21,7 +21,7 @@ const App = () => {
        <div className="box ulta-mini-box d-flex"> 13</div>
        <div className="box ulta-mini-box d-flex"> 14</div>
        <div className="box ulta-mini-box d-flex"> 15</div>
-       <div className="box ulta-mini-box d-flex"> 16</div>
+       <div className="box ulta-mini-box d-flex"> 15</div>
       </div>
     </div>
   )
